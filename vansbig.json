@@ -15,6 +15,6 @@
         "device_id": "6536c9dbf21e9e4d",
         "key": "vansbig",
         "expirydate": "31-12-2030",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
